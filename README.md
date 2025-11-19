@@ -18,4 +18,4 @@ A certificação **OCI Foundations** valida o conhecimento fundamental sobre:
 A seguir está o certificado que comprova minha qualificação:
 
 📄 **Certificado:**  
-(https://brm-certview.oracle.com/ords/certview/ScoreReport?ssn=OC7743898&registrationID=asx-fd278c47-391f-4dfd-8bba-555328210306)
+ <a href="https://brm-certview.oracle.com/ords/certview/ScoreReport?ssn=OC7743898&registrationID=asx-fd278c47-391f-4dfd-8bba-555328210306"></a>
