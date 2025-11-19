@@ -18,4 +18,7 @@ A certificação **OCI Foundations** valida o conhecimento fundamental sobre:
 A seguir está o certificado que comprova minha qualificação:
 
 📄 **Certificado:**  
- <a href="https://brm-certview.oracle.com/ords/certview/ScoreReport?ssn=OC7743898&registrationID=asx-fd278c47-391f-4dfd-8bba-555328210306"></a>
+## 📜 Certificação Oracle OCI Foundations
+
+[![Ver Certificado](https://img.shields.io/badge/Ver%20Certificado-Oracle%20OCI-blue?style=for-the-badge)](https://github.com/rosivennette/Certifica-o-OCI/blob/main/Certifica%C3%A7%C3%A3o-Oracle-OCI.pdf)
+
